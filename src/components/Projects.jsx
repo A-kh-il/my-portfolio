@@ -15,7 +15,7 @@ const projects = [
     desc: "Real-time AI question answering platform using generative AI APIs with responsive UI and optimized response rendering.",
     tech: ["React", "FastAPI", "Gemini API", "Firebase"],
     image: qa,
-    code: "YOUR_GITHUB_LINK",
+    code: "https://github.com/A-kh-il/AI-Multimedia-Q-A-System",
     demo: "",
     featured: true,
   },
